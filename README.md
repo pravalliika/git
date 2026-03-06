@@ -15,3 +15,7 @@ started development
 still added more
 development done
 devlopment is completed
+
+### conflict
+* this is from developer-1 i want to keep this line of code
+* this is again from developer-1 adding more code
